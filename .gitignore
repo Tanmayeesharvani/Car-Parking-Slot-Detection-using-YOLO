@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Zip files
+*.zip
+
+# OpenCV / binaries
+*.pyd
+*.dll
+*.so
+
+# Environment files
+.env
+
+# OS
+.DS_Store
+Thumbs.db
